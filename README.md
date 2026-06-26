@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi 👋, I'm Renuka Alse
 
-<!--
-**Renuka0520/Renuka0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning Java, DSA & Web Development
+
+📫 Email: alserenukal@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/renuka-alse-a3061933a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+✨ Passionate about learning new technologies and building real-world projects.
